@@ -1,0 +1,2 @@
+# Math-Tutor-in-Python
+A random math equation with two numbers is generated with the basic operators '+', '-', '*' or '/' selected between them.The user is able to input the number of questions and the maximum number of digits that the numbers will have. The results displayed will include a dictionary with the questions and corresponding answers inputted by the user, the number of correct answers, the percentage correct and the total time taken to complete the quiz.
